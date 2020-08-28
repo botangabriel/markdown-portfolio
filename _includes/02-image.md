@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Cool commie logo](https://i.imgur.com/XVVLpVQ.png)
