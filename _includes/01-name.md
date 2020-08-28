@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+# Botan Gabriel's Blog
+### Best blog on the site
+
+:)
